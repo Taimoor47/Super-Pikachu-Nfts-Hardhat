@@ -16,7 +16,7 @@ https://testnets.opensea.io/collection/super-pikachu-cm3kjx3q3q
 Here is deployed smart contract address check on goerli etherscan.
 
 ```
-CONTRACT_ADDRESS= 0x41f5c114cb46dc3babd48c7c499d6b2a87e8e657
+ 0x41f5c114cb46dc3babd48c7c499d6b2a87e8e657
 
 ```
 
@@ -31,7 +31,6 @@ CONTRACT_ADDRESS=
 
 hardhat config.
 
-```
 /**
 * @type import('hardhat/config').HardhatUserConfig
 */
@@ -54,6 +53,6 @@ module.exports = {
   },
 }
 
-```
+
 
 
