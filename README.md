@@ -9,6 +9,9 @@ Pull/Download Repo.
 npm Install
 
 ```
+Nfts Collection link minted by this Smart Contract.
+
+https://testnets.opensea.io/collection/super-pikachu-cm3kjx3q3q
 
 Here is deployed smart contract address check on goerli etherscan.
 
