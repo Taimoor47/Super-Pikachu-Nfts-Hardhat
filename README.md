@@ -31,6 +31,7 @@ CONTRACT_ADDRESS=
 
 hardhat config.
 
+```
 /**
 * @type import('hardhat/config').HardhatUserConfig
 */
@@ -53,6 +54,7 @@ module.exports = {
   },
 }
 
+```
 
 
 
