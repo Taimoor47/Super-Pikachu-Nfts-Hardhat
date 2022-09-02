@@ -17,13 +17,6 @@ CONTRACT_ADDRESS= 0x41f5c114cb46dc3babd48c7c499d6b2a87e8e657
 
 ```
 
-Here is the link of this samrt contract with complete Hardhat environment.
-
-```
-https://github.com/Taimoor47/Super-Pikachu-Nfts-Hardhat
-
-```
-
 .evn structure
 
 ```
